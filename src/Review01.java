@@ -5,7 +5,7 @@ public class Review01 {
         int num1 = 1500; //商品価格
         double num2 = 0.1; //消費税率
         double result = tax(num1,num2);
-        System.out.print(num1 + "円の商品の税込価格は" + (int)(num1 + result) + "円(消費税は" + result + "円)です。");
+        System.out.print(num1 + "円の商品の税込価格は" + (int)(num1 + result) + "円(消費税は" + (int)result + "円)です。");
         
     }
     

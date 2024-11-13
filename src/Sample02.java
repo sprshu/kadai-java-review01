@@ -1,5 +1,3 @@
-package src;
-
 public class Sample02 {
     public static void main(String[] args) {
         int num1 = 1500;//商品価格
